@@ -2,7 +2,7 @@
 
 Simple speed-click-test game built with HTML/CSS/JS
 
-![](file:///C:/Users/pippc/Desktop/Анимация2.gif)
+![](https://github.com/Ayukio/speed-click-game/blob/master/speed-click-game.gif)
 
 * HTML
 * CSS animations
